@@ -1,0 +1,13 @@
+{
+    "name": "dqcalculator",
+    "version": "0.0.1",
+    "author": "William CHAZOT (Nonudian)",
+    "scripts": {
+        "test": "ts-node src/main.ts"
+    },
+    "dependencies": {
+        "@types/google-apps-script": "^1.0.41",
+        "ts-node": "^10.4.0",
+        "typescript": "^4.5.3"
+    }
+}

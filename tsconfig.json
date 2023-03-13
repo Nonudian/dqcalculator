@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "experimentalDecorators": true,
+        "target": "esnext",
+        "lib": [
+            "esnext"
+        ]
+    },
+    "include": [
+        "src/*.ts"
+    ]
+}
